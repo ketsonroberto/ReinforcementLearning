@@ -1,2 +1,2 @@
 # ReinforcementLearning
-Examples and tests of the use of reinforcement learning
+Examples and tests of the use of reinforcement learning (Under development!)
